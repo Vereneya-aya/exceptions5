@@ -1,3 +1,5 @@
+package hw2.src;
+
 import java.io.FileNotFoundException;
 
 public class task3 {
